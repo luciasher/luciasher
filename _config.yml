@@ -69,6 +69,7 @@ author:
 social-network-links:
   rss: true
   email: "lhs1@williams.edu"
+  instagram: lucia.sher
   facebook: deanattali
   github: daattali
   twitter: daattali
@@ -90,6 +91,7 @@ share-links-active:
   twitter: true
   facebook: true
   linkedin: true
+  instagram: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
