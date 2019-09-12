@@ -61,7 +61,7 @@ foo(3)
 ## Boxes
 You can add notification, warning and error boxes like this:
 
-### Notification
+### Photo Credits
 
 {: .box-note}
 **Note:** This is a notification box.
