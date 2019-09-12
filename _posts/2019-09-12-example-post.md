@@ -20,9 +20,6 @@ Here's a useless table:
 | Siblings | Name | Age |
 | :------ |:--- | :--- |
 | 1 | Phoebe | 10 |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
 
 
 How about a yummy crepe?
