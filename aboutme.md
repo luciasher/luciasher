@@ -1,13 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why I am taking this course!
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I have always been intrigued by computer science and here's why I chose this class specificially:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I costume design and so thought this course would be a good mix of my knowledge of sewing with my lack of coding knowledge.
+- I also just really loved 
 
 What else do you need?
 
