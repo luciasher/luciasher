@@ -4,6 +4,7 @@ title: Lucia's Example Post
 subtitle: here we go
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [Lucia, hey, good morining]
+bigimg: /img/path.jpg
 image: /img/8.216976.jpg
 tags: [test]
 comments: true
