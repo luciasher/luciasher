@@ -4,8 +4,8 @@ title: Lucia's First Post
 subtitle: This is me!
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [Lucia, hey, good morining]
-bigimg: /img/SSC_0345.jpg
-image: /img/8.216976.jpg
+bigimg: /08FCDFA3-7E84-4B17-B4C7-8EFC33CE3B91.jpeg
+image: /333E68CB-D0FB-4F69-9646-35B23FA79884.jpg
 tags: [test]
 comments: true
 ---
@@ -24,11 +24,11 @@ comments: true
 
 How about a yummy crepe?
 
-![young lucia](images.jpeg)
+![young lucia](IMG_3073.jpeg)
 
 It can also be centered!
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .center-block :}
+![Crepe](IMG_2776.jpeg)
 
 
 ### Photo Credits
