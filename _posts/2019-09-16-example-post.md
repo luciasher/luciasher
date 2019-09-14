@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Lucia's Example Post
-subtitle: here we go
+title: Lucia's First Post
+subtitle: This is me!
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [Lucia, hey, good morining]
 bigimg: /img/SSC_0345.jpg
@@ -12,11 +12,16 @@ comments: true
 
 You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
-**GOOD MORNING!**
+**WELCOME!**
 
-## My name is Lucia, but my nickname is Lurch. 
+## Quick Facts About me!. 
 
-Here's a useless table:
+- I am a firstyear. 
+- I think I want to major in Art History but that is subject to change. 
+- I have sewn quite a lot, but mostly machine sewing. I took sewing lessons from the ages of 10-14 and then I began making my own clothes and costume designing at school! I hope to continue costume designing at Williams. 
+- I have absolutely no programming experience except for being a part of the robotics club as a 5th grader.
+- I hope to come away from this class with a better understanding of coding, and how to create a product that impliments electronics into wearable technology!
+- One boring fact about me is that I have 3 kinds of asthma, yes I know, I am just that cool. 
 
 | Siblings | Name | Age |
 | :------ |:--- | :--- |
