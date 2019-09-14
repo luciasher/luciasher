@@ -21,10 +21,6 @@ comments: true
 - I hope to come away from this class with a better understanding of coding, and how to create a product that impliments electronics into wearable technology!
 - One boring fact about me is that I have 3 kinds of asthma, yes I know, I am just that cool. 
 
-| Siblings | Name | Age |
-| :------ |:--- | :--- |
-| 1 | Phoebe | 10 |
-
 
 How about a yummy crepe?
 
