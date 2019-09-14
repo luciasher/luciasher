@@ -17,7 +17,7 @@ comments: true
 - I am a firstyear. 
 - I think I want to major in Art History but that is subject to change. 
 - I have sewn quite a lot, but mostly machine sewing. I took sewing lessons from the ages of 10-14 and then I began making my own clothes and costume designing at school! I hope to continue costume designing at Williams. 
-- I have absolutely no programming experience except for being a part of the robotics club as a 5th grader.
+- I have absolutely no programming experience except for being a part of the robotics club as a 5th grader, which doesn't count.
 - I hope to come away from this class with a better understanding of coding, and how to create a product that impliments electronics into wearable technology!
 - One boring fact about me is that I have 3 kinds of asthma, yes I know, I am just that cool. 
 
