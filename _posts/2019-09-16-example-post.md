@@ -22,17 +22,9 @@ comments: true
 - One boring fact about me is that I have 3 kinds of asthma, yes I know, I am just that cool. 
 
 
-How about a yummy crepe?
-
-![young lucia](https://luciasher.github.io/IMG_3073.jpeg)
-
-It can also be centered!
-
-![Crepe](https://luciasher.github.io/IMG_2776.jpeg)
-
 
 ### Photo Credits
 
 {: .box-note}
-**Photo Credit:** This is a notification box.
+**Photo Credit:** All the photographs are owned by Lucia Sher
 
