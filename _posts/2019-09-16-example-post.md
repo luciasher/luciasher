@@ -1,11 +1,12 @@
+
 ---
 layout: post
 title: Lucia's First Post
 subtitle: This is me!
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [Lucia, hey, good morining]
-bigimg: /img/08FCDFA3-7E84-4B17-B4C7-8EFC33CE3B91.jpeg
-image: /img/333E68CB-D0FB-4F69-9646-35B23FA79884.jpg
+bigimg: https://luciasher.github.io/img/08FCDFA3-7E84-4B17-B4C7-8EFC33CE3B91.jpeg
+image: https://luciasher.github.io/img/333E68CB-D0FB-4F69-9646-35B23FA79884.jpg
 tags: [test]
 comments: true
 ---
