@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Lucia's First Post
