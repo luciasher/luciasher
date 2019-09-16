@@ -24,11 +24,11 @@ comments: true
 
 How about a yummy crepe?
 
-![young lucia](IMG_3073.jpeg)
+![young lucia](https://luciasher.github.io/IMG_3073.jpeg)
 
 It can also be centered!
 
-![Crepe](IMG_2776.jpeg)
+![Crepe](https://luciasher.github.io/IMG_2776.jpeg)
 
 
 ### Photo Credits
