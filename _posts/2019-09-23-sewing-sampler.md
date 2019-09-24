@@ -1,6 +1,5 @@
 layout: post
 title: Sewing Sampler
-bigimg: https://luciasher.github.io/img/IMG_3972.HEIC
 subtitle: This is my beautiful sewing sampler!
 
 One tip I wish I had known before was to make my satin stiches big. 
