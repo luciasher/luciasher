@@ -3,7 +3,7 @@ layout: post
 title: Lucia's Sewing Sampler
 subtitle: This is my beautiful sewing sampler!!
 gh-repo: daattali/beautiful-jekyll
-tags: [test]
+tags: [samper,sewing]
 ---
 
 One tip I wish I had known before was to make my satin stiches big. 
