@@ -3,7 +3,6 @@ layout: post
 title: Lucia's Sewing Sampler
 subtitle: This is my beautiful sewing sampler!!
 gh-repo: daattali/beautiful-jekyll
-bigimg: https://luciasher.github.io/img/IMG_3972.HEIC
 tags: [test]
 ---
 
