@@ -2,7 +2,7 @@
 layout: post
 title: Sweather Weather 
 subtitle: Here you will find the details of my sweater weather project.
-tags: [sampler,sewing]
+tags: [sweater,weather,coding,atom]
 ---
 
 Overview:
@@ -11,5 +11,5 @@ In my program you are able to input any temperature into it and find out what ki
 Tip or Trick:
 One tip I would give my past self is to make sure there are no additional spaces or commas after I have finished my text in my print f lines. This was a mistake I made over and over again, and was easy enought to debug but it was a pain.  
 
-![sampler](https://luciasher.github.io/img/sewingsampler.png)
+![sampler](https://luciasher.github.io/img/Sweaterweatheroutput-09-25 at 2.30.25 PM.png)
 
