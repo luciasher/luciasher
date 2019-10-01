@@ -2,7 +2,7 @@
 layout: post
 title: Circuit Plushy
 subtitle: Here you will find the details of my circuit plushy project. 
-tags: [sweater,weather,coding,atom]
+tags: [circuit,plushy]
 ---
 
 ## Overview:
