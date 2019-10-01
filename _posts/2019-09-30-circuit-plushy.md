@@ -12,4 +12,6 @@ In created a plushy that lights up all three LEDs when the button is pressed and
 One tip I would give is to test the sections of circuit one little bit at a time, THis way you have fewer mistakes to fix earlier, and you wont end up with extra wires either. 
 
 ![sampler](https://luciasher.github.io/img/Rawcircuit.png)
-
+![sampler](https://luciasher.github.io/img/Papercircuit.png)
+![sampler](https://luciasher.github.io/img/front.png)
+![sampler](https://luciasher.github.io/img/back.png)
