@@ -2,7 +2,7 @@
 layout: post
 title: Homemade Switches
 subtitle: This is my homemade switch project. 
-tags: [plushy,dedux]
+tags: [homeade,switches]
 ---
 
 ## Overview:
