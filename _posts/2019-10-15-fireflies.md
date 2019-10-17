@@ -2,7 +2,7 @@
 layout: post
 title: Separate Sparklies x3
 subtitle: This is my fireflies project!
-tags: [rgb, loop]
+tags: [fireflies, sparklies]
 ---
 
 ## Overview:
