@@ -12,4 +12,4 @@ In this program I created a program that coded so that everytime I pressed the b
 One tip I would give would be to do this program in steps. I worked little by little to keep all my variables and states and everything under control and it made it so much easier. 
 
 
-![sampler](https://luciasher.github.io/img/rgbloop.png)
+![sampler](https://luciasher.github.io/img/RANDOM.png)
