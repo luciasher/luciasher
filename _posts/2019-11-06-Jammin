@@ -1,0 +1,13 @@
+---
+layout: post
+title: Jammin'
+subtitle: This is my Jammin' project!
+tags: [jammin', pink, panther]
+---
+
+## Overview:
+For this project I created a program played the Pink Panther themesong whenever the switch was turned on. When the switch was turned off the song stops playing. 
+
+## Tip or Trick:
+One tip I would give would be to make sure that you are plugging into the right pins, both physicially on the board and in your code. Finally you should make sure your code matches your board set up!
+![sampler](https://luciasher.github.io/img/jammin.png)
