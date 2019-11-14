@@ -13,4 +13,4 @@ Materials to be Purchased:
 - Red and Pink Embroidery Floss
 
 
-![sampler](https://luciasher.github.io/img/ghost.png)
+![sampler](https://luciasher.github.io/img/Opera Gloves2.001.jpeg)
