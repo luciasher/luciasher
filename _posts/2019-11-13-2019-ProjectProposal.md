@@ -2,10 +2,10 @@
 layout: post
 title: Project Proposal
 subtitle: This is my Project Proposal project!
-tags: [ghost, detector]
+tags: [project, proposal]
 ---
 
-Materials:
+Materials to be Purchased:
 - One Pair of Men's Extra Large gloves: preferably White or Grey
 - 8''x8'' of Conductive Fabric
 - Red and Pink Fabric Paint
