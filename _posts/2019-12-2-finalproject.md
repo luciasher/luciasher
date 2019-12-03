@@ -30,7 +30,7 @@ I would suggest organizing an order of when circuit sections to sew when. What I
 ## Tip 3: Coding
 I would as usual suggest debugging the code section by section in different folders so that you can keep track of your progress and remember what you did that was correct. 
 
-![sampler](https://luciasher.github.io/img/prototype.png)
+![sampler](https://luciasher.github.io/img/prototype.jpeg)
 ![sampler](https://luciasher.github.io/img/.png)
 
 
